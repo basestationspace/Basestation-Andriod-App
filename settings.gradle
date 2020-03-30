@@ -1,0 +1,2 @@
+rootProject.name='Basestation-Andriod-App'
+include ':app'
